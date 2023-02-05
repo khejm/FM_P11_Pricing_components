@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/P11_screenshot_desktop.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/khejm/FM_P11_Pricing_components.git
+- Live Site URL: https://khejm.github.io/FM_P11_Pricing_components/
 
 ## My process
 
